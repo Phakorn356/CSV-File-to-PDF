@@ -4,7 +4,7 @@ Convert CSV data into printable/exportable PDF format using HTML, CSS, JavaScrip
 ---
 
 🖼️ Live Preview  
-View Project on GitHub Pages
+**[View Project on GitHub Pages](https://phakorn356.github.io/CSV-File-to-PDF/)**
 
 ---
 
